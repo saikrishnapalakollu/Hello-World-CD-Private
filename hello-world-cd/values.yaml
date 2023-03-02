@@ -1,2 +1,2 @@
 replicas: 3
-image: lakshitsainiceligo/qa:HelloWorld_1.0.0.11.0
+image: palakollu145/nodeweb:blue

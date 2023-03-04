@@ -19,4 +19,4 @@ spec:
       - name: nodeweb-container
         image: {{ .Values.image }}
         ports:
-          - containerPort: 5000
+          - containerPort: 8080

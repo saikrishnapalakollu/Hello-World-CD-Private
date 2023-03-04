@@ -1,2 +1,2 @@
 replicas: 2
-image: palakollu145/nodeweb:blue
+image: palakollu145/nodeweb:light

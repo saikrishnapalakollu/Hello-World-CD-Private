@@ -1,2 +1,2 @@
 replicas: 2
-image: palakollu145/helloworld:green
+image: palakollu145/helloworld:blue
